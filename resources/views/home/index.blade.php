@@ -1,3 +1,3 @@
 <x-app-layout>
-    Hola Mundo
+    @livewire('home.home')
 </x-app-layout>
